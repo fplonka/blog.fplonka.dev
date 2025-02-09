@@ -15,3 +15,7 @@ or run with:
 ```
 hugo server
 ```
+
+TODO:
+- cmd+d thing to publish
+    - needs ssh key without password for pushing from script...

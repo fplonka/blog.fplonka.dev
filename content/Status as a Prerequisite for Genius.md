@@ -1,0 +1,16 @@
+---
+date: 2023-07-13
+draft: 
+title: Status as a Prerequisite for Genius
+---
+Maybe genius takes some arrogance and this arrogance requires a high self-worth or sense of social status. Take Richard Feynman responding in the naive way when talking with someone much more senior than him, bluntly saying when he thinks something doesn't make sense. So he would rarely defer in social situations if he thought he was right:
+
+> All the big shots except for Hans Bethe happened to be away at the time, and what Bethe needed was someone to talk to, to push his ideas against. Well, he comes in to this little squirt in an office and starts to argue, explaining his idea. I say, "No, no, you're crazy. It'll go like this." And he says, "Just a moment," and explains how he's not crazy, I'm crazy. And we keep on going like this. You see, when I hear about physics, I just think about physics, and I don't know who I'm talking to, so I say dopey things like "no, no, you're wrong," or "you're crazy." But it turned out that's exactly what he needed. I got a notch up on account of that, and I ended up as a group leader under Bethe with four guys under me.
+
+I think this might have been pretty unusual. The default is probably having your belief overridden with "huh, guess I don't know" in a way which feels very natural and true to you (basically a prior overriding the sense data from a lower layer, see [Scott on predictive coding](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/)). 
+
+I expect this mechanism of deferral to be social in nature and helpful in navigating social hierarchies. Maybe even helpful in most cases, since most conversations are less an exchange of information and more of a social dance or game, meaning it's more important to signal the right allegiances and display the right expressions of sympathy than to be correct. But in the edge cases were humans are genuinely pursuing truth, this tendency is probably unhelpful.
+
+Now the interesting part. One thing that can help truth-seeking in the face of this mechanism is probably being a bit autistic/nerdy, since an important part of those traits seems to be relying less on priors and seeing the world more as it really is. And surely Feynman was at least a bit of a nerd. But another thing that might help is to just be high status: be attractive and charming and smart enough that when you challenge someone's authority you won't be seen as stepping out of line but instead as being interesting and iconoclastic. So the provocative claim is that Feynman's attractiveness/charisma causally contributed to his success as a physicist, and not just at the social but the intellectual level. (Yes, the quote from above seems to mainly show social success, but what I expect is that this kind of unwillingness to defer when correct helps one have enough faith in a theory to actually develop it.)
+
+Verifying this empirically would probably be difficult, since we should expect an attractiveness-accomplishment correlation from multiple factors already: preferential treatment, attractiveness implying a lack of deficiencies (maybe maladaptive mutations or malnutrition) which also cause lower intelligence. So it'd be hard to check if high-status/attractiveness *causes* higher accomplishment through this lower-tendency-to-defer mechanism.

@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/you-are-unfortunately-part-of-the-map/</loc>
+    <loc>https://example.org/you-are-unfortunately-part-of-the-map/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-to-be-a-good-thermostat/</loc>
+    <loc>https://example.org/how-to-be-a-good-thermostat/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</loc>
+    <loc>https://example.org/sally-rooney-and-the-modern-formlessness-of-relationships/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/status-as-a-prerequisite-for-genius/</loc>
+    <loc>https://example.org/status-as-a-prerequisite-for-genius/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
   </url>
 </urlset>
