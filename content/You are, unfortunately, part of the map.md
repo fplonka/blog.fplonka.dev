@@ -1,8 +1,11 @@
 ---
 date: 2025-02-09
-title: You are the map, there is no territory
+title: You are the map, there is no territory LOL
 draft: false
 ---
+SUCK MY COCK
+
+
 alternative title: YOU ARE THE MAP, THERE IS NO TERRITORY
 
 naive rationality says something like:
