@@ -3,8 +3,6 @@ date: 2025-02-09
 title: You are the map, there is no territory
 draft: false
 ---
-alternative title: YOU ARE THE MAP, THERE IS NO TERRITORY
-
 naive rationality says something like:
 - you have some goal
 - if you have accurate beliefs about reality that will help you achieve your goal
