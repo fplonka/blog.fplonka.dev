@@ -14,6 +14,9 @@
   <img src="{{ $resized.RelPermalink | safeURL }}"
        {{- with .PlainText }} alt="{{ . | safeHTML }}"{{ end }}
        {{- with .Title }} title="{{ . | safeHTML }}"{{ end }} />
+  <p>
+  FIRST CASE
+  </p>
 {{- else -}}
   {{- /*
        If not found as a resource, we simply correct "images/foo.png" to "/images/foo.png"
@@ -26,4 +29,7 @@
   <img src="{{ $src | safeURL }}"
        {{- with .PlainText }} alt="{{ . | safeHTML }}"{{ end }}
        {{- with .Title }} title="{{ . | safeHTML }}"{{ end }} />
+  <p>
+  SECOND CASE
+  </p>
 {{- end -}}
