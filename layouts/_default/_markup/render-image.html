@@ -2,21 +2,21 @@
 {{- $image := resources.Get $src -}}
 
 {{- if not $image -}}
-  <p style="color: red;">
-    <strong>Image not found:</strong> {{ $src }}
+  <p class="text-red-500 font-bold">
+    Image not found: {{ $src }}
   </p>
 {{- else -}}
-  {{- /* e.g. resize to 2000px wide max, WebP, quality 80 */ -}}
+  {{- /* Resize to max width 2000px, convert to WebP, quality 80 */ -}}
   {{- $resized := $image.Resize "2000x webp q80" -}}
 
-  <figure style="max-width: 100%; margin: 1em 0;">
+  <figure class="max-w-full my-4">
     <img
-      style="max-width: 100%; height: auto;"
+      class="max-w-full h-auto"
       src="{{ $resized.RelPermalink | safeURL }}"
       alt="{{ .PlainText | safeHTML }}"
     />
     {{- with .Title -}}
-      <figcaption>
+      <figcaption class="text-gray-500 text-center text-sm mt-2">
         {{ . | safeHTML }}
       </figcaption>
     {{- end -}}
