@@ -50,7 +50,7 @@ ajdfkljlkadf
 akjdfljkadf
 
 2. **Why do this whole dance at all?**
-![](images/mental_gymnastics.png "testing the cpation bs please work you fucking piece of shit please please please just work god damn it how hard can this be)
+![](images/mental_gymnastics.png "testing the cpation bs please work you fucking piece of shit please please please just work god damn it how hard can this be")
 
 - adds complexity
 - inductive prior on low complexity makes this hard
