@@ -10,8 +10,6 @@ Naive rationality says something like:
 
 I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are. 
 
-![](images/file-20250214135303206.png "dog dog dog dog dog dog dog dog dog dog dog dog dog dog dgo")
-
 I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic/object-level frame why this is the case.
 ## The problem TODO
 
@@ -51,8 +49,8 @@ This is not absurd and I don't entirely disapprove of this way of thinking. But 
 ajdfkljlkadf
 akjdfljkadf
 
-1. **Why do this whole dance at all?**
-![](images/mental_gymnastics.png)
+2. **Why do this whole dance at all?**
+![](images/mental_gymnastics.png "testing the cpation bs please work you fucking piece of shit please please please just work god damn it how hard can this be)
 
 - adds complexity
 - inductive prior on low complexity makes this hard

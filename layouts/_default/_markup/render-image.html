@@ -9,7 +9,7 @@
   {{- /* Resize to max width 2000px, convert to WebP, quality 80 */ -}}
   {{- $resized := $image.Resize "2000x webp q80" -}}
 
-  <figure class="max-w-full m-0">
+  <figure class="max-w-full mx-0">
     <img
       class="w-full h-auto"
       src="{{ $resized.RelPermalink | safeURL }}"
