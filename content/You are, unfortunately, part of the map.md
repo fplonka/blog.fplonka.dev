@@ -1,6 +1,5 @@
 ---
 date: 2025-02-09
-title: You are the map, there is no territory
 draft: false
 ---
 A lot of people have a model of human rationality something like:

@@ -1,7 +1,6 @@
 ---
 date: 2023-07-13
-draft: 
-title: Status as a Prerequisite for Genius
+draft:
 ---
 Maybe genius takes some arrogance and this arrogance requires a high self-worth or sense of social status. Take Richard Feynman responding in the naive way when talking with someone much more senior than him, bluntly saying when he thinks something doesn't make sense. So he would rarely defer in social situations if he thought he was right:
 

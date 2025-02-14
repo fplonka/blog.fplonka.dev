@@ -34,7 +34,13 @@
     <ul>
       {{ range .Pages }}
       <li class="mt-2">
-        <a href="{{ .RelPermalink }}">{{ title .Title }}</a> - {{ .Date.Format "Jan 2, 2006" }}
+        <a href="{{ .RelPermalink }}">
+    {{ if .Title }}
+        {{ title .Title }}
+      {{ else }}
+        {{ title (replace .File.BaseFileName "-" " ") }}
+      {{ end }}
+        </a> - {{ .Date.Format "Jan 2, 2006" }}
       </li>
       {{ end }}
     </ul>

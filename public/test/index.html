@@ -1,10 +1,8 @@
-<head>
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <title>
-      {{ if .Title }}
-        {{ title .Title }}
-      {{ else }}
-        {{ title (replace .File.BaseFileName "-" " ") }}
-      {{ end }}
+      
+        Test
+      
   </title>
   <link href="/css/output.css" rel="stylesheet" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,16 +11,17 @@
 <body class="bg-zinc-100">
   <div class="shadow-md my-10 mx-auto p-6 md:p-10 max-w-screen-md bg-white border-zinc-100">
     <h1 class="m-0">
-      {{ if .Title }}
-        {{ title .Title }}
-      {{ else }}
-        {{ title (replace .File.BaseFileName "-" " ") }}
-      {{ end }}
+      
+        Test
+      
     </h1>
-    <p class="text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</p>
+    <p class="text-gray-500">Feb 14, 2025</p>
 
     <div class="mt-4">
-      {{ .Content }}
+      <p>I love my wonderful boyfriend
+T
+TEST</p>
+
     </div>
 
     <p class="mt-6"><a href="/">← Back to home</a></p>
