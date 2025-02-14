@@ -13,38 +13,38 @@
       <link>http://localhost:1313/test/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/test/</guid>
-      <description>&lt;p&gt;I love my wonderful boyfriend&#xA;T&#xA;TEST&lt;/p&gt;</description>
+      <description>&lt;p&gt;I love my wonderful boyfriend&lt;/p&gt;&#xA;&lt;p&gt;T&#xA;TEST&lt;/p&gt;</description>
     </item>
     <item>
-      <title>mariam&#39;s blog</title>
+      <title></title>
       <link>http://localhost:1313/mariams-blog/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mariams-blog/</guid>
       <description>&lt;p&gt;I love my wonderful boyfriend&lt;/p&gt;</description>
     </item>
     <item>
-      <title>You are the map, there is no territory</title>
+      <title></title>
       <link>http://localhost:1313/you-are-unfortunately-part-of-the-map/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/you-are-unfortunately-part-of-the-map/</guid>
       <description>&lt;p&gt;A lot of people have a model of human rationality something like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You have some goal.&lt;/li&gt;&#xA;&lt;li&gt;If you have accurate beliefs about reality that will help you achieve your goal.&lt;/li&gt;&#xA;&lt;li&gt;So clearly you should seek to have accurate beliefs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s call this the &amp;ldquo;naive rationality&amp;rdquo; view. I think this doesn&amp;rsquo;t always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>How to be a good thermostat</title>
+      <title></title>
       <link>http://localhost:1313/how-to-be-a-good-thermostat/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/how-to-be-a-good-thermostat/</guid>
       <description>&lt;p&gt;Say we take predictive coding seriously and accept that the chief goal of a human is minimizing prediction error. Does this imply anything useful about how we should live our lives? Can we use concepts from these beautiful concepts from the intersection of neuroscience and deep learning to write pithy new self-help books? I think we can.&lt;/p&gt;&#xA;&lt;p&gt;(If you&amp;rsquo;re unclear on what predictive coding is, read &lt;a href=&#34;https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/&#34;&gt;Scott&amp;rsquo;s post about it&lt;/a&gt; first, I promise it&amp;rsquo;s excellent).&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sally Rooney and the modern formlessness of relationships</title>
+      <title></title>
       <link>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</guid>
       <description>&lt;p&gt;there used to be stronger guiding ideals / expectations for what relations between people should be like. now things are more formless. you can be fucking and that can mean anything, you can be friends with benefits or a situationship or just dating or long term committed, and then even when you have one of these labels there&amp;rsquo;s a vagueness around what is implied in terms of expectations duties responsibilities. or you can be &amp;ldquo;not putting a label on it&amp;rdquo; - explicit formlessness.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Status as a Prerequisite for Genius</title>
+      <title></title>
       <link>http://localhost:1313/status-as-a-prerequisite-for-genius/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/status-as-a-prerequisite-for-genius/</guid>
