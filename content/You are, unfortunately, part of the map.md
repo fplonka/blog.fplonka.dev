@@ -50,7 +50,8 @@ ajdfkljlkadf
 akjdfljkadf
 
 1. **Why do this whole dance at all?**
-![](/Pasted%20image%2020250214114208.png)
+![](images/mental_gymnastics.png)
+
 - adds complexity
 - inductive prior on low complexity makes this hard
 - easier when you're smarter because you can handle the complexity, which is part of why this works for rats and not for normies
