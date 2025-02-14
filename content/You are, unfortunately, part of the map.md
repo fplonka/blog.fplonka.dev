@@ -4,15 +4,14 @@ title: You are the map, there is no territory
 draft: false
 ---
 Naive rationality says something like:
-- you have some goal
-- if you have accurate beliefs about reality that will help you achieve your goal
-- so clearly you should seek to have accurate beliefs
+- You have some goal.
+- If you have accurate beliefs about reality that will help you achieve your goal.
+- So clearly you should seek to have accurate beliefs.
 
-I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, your idea of who you are. 
+I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are. 
 
-I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic frame why this is the case.
-
-## The problem
+I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic/object-level frame why this is the case.
+## The problem TODO
 
 The big problem is that **beliefs and desires are the same sort of stuff**: priors, beliefs, expectations, whatever. The way desires are implemented is through beliefs: to want to eat is to have an expectation that you've eaten, and it's your prediction-error minimization machinery that drives you to eat. So there is no neat separation, there is no 'agent using info to accomplish set goal' and separate 'info about the world' - your goals are part of your beliefs about the world. 
 
@@ -33,9 +32,44 @@ But now consider a case where, I claim, the separation doesn't really work. Note
 - And then other bad things follow. We have some hard-coded needs for social validation (or at least things like not being hungry, which social validation etc helps with). If people hate me then I won't get social validation, which is bad (causes prediction error). 
 - So instead, I don't make that update. I say 'we cringe on' or 'lol whatever' or 'damn what a dickhead' etc. 
 
-Now, is rejecting this pessimistic belief update in some sense irrational or delusional? We're choosing self-serving beliefs, we're rejecting true evidence to keep us happy! In some sense it is, sure. 
+Now, is rejecting this pessimistic belief update in some sense irrational or delusional? We're choosing self-serving beliefs, we're rejecting true evidence to keep us happy! In some sense it is, sure. But the thing is, as predictive processing tells us, beliefs are self-fulfilling prophecies, in a deep way. So on one hand your beliefs are about modeling reality accurately, but on the other they're about driving your behavior in a desired way (one which minimizes prediction error from interoceptive sources, e.g. makes sure you eat when hungry).
 
-But the thing is, as predictive processing tells us, beliefs are self-fulfilling prophecies, in a deep way. So one one hand your beliefs are about modeling reality accurately, but on the other they're about driving your behavior in a desired way (one which minimizes prediction error from interoceptive sources, e.g. makes sure you eat when hungry).
+So you should ask, rational in what sense? In the 'naive' rationality model, with an agent and a neatly separate world model, maybe this is irrational. But that's not what your brain is doing. The 'delusional' update is perfectly rational in the predictive coding frame. Are you bound to strive for the naive-rational thing? I could say that true rationality is that of Homo Economicus who single-mindedly maximizes log wealth, and that you are irrational to become a painter. But you aren't Homo Economicus, you have more complicated reasons for your behavior, so you don't really care about this 'sin' of irrationality. Similarly, you're not the naive-rational agent, and so you shouldn't care about this 'sin' of not updating to belief that you suck.
+
+ (I say naive rationality etc with much sympathy, the internet autist rationalists and their friends thinking along these lines are very much my ingroup).
+
+Potentially this still sounds unsavory. To make this 'delusional' update rejection sound a bit more reasonable, you can notice that in the predictive coding frame, if you say that you should update your priors to believe that people suck, you are making a quite strong claim. You are saying, "if you had a bad interaction, you should want to interact with people less". Because remember, beliefs and wants are the same sort of stuff, changing your beliefs is how you change your actions.
+## An obvious objection: separating beliefs
+
+There is a very reasonable objection here, namely that you should be able to model the world accurately and without judgement, and not let your true beliefs irrationally influence your actions. If you want people to like you, you should have an accurate belief about whether they like you, and still go out and interact with people, doing your best to make them like you, because that's how you will best accomplish your goal.
+
+This is not absurd and I don't entirely disapprove of this way of thinking. But I think it's awkward in some ways:
+
+1. **Occam's razor makes separating beliefs harder**
+ajdfkljlkadf
+akjdfljkadf
+
+2. adlkfjalkdfj
+aldjfkladf
+adfjklajdf
+
+
+- adds complexity
+- inductive prior on low complexity makes this hard
+- easier when you're smarter because you can handle the complexity, which is part of why this works for rats and not for normies
+- wanting to do this separation is because you like the agent-worldmodel model. which is fair enough, but it's just a model, and nature was smarter, it found a design where beliefs and actions are one and the same, and you shouldn't be excessively faithful to this model. 
+
+it is fair to frame it like this: TODO you're are choosing to WANT to 
+
+TODO: high decouplers, is the ideal not to be able to separate these out. 
+
+
+From the naive rational frame, the case for making the update is something like ''
+
+
+## Some other consequences
+
+
 
 maybe an example would be 'black-pilling' beliefs. maybe you go through some rough shit in life and it would be correct to update in the direction of people being terrible. but, we should expect there to be a bias against this theory, because adopting the belief would change your behavior - you would expect people to suck, so you'd read neutral interactions as bad, people feel that, act more coldly towards you, and some more steps like this until you bottom out in 'hard-coded' predictions about social belonging and having sex and not being hungry and even more low-level hard-coded bodily homeostatis predictions.
 
