@@ -110,6 +110,10 @@
   margin: 0px
 }
 
+.m-2 {
+  margin: 0.5rem
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto
@@ -118,6 +122,11 @@
 .my-10 {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem
+}
+
+.mx-0 {
+  margin-left: 0px;
+  margin-right: 0px
 }
 
 .mt-2 {
@@ -130,6 +139,18 @@
 
 .mt-6 {
   margin-top: 1.5rem
+}
+
+.h-auto {
+  height: auto
+}
+
+.w-full {
+  width: 100%
+}
+
+.max-w-full {
+  max-width: 100%
 }
 
 .max-w-screen-md {
@@ -155,22 +176,28 @@
   padding: 1.5rem
 }
 
+.text-center {
+  text-align: center
+}
+
+.font-bold {
+  font-weight: 700
+}
+
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity))
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity))
 }
 
 .shadow-md {
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
-}
-
-.post-content img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  /* optional: remove inline gaps, but not mandatory */
 }
 
 @media (min-width: 768px) {

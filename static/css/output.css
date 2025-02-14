@@ -110,6 +110,10 @@
   margin: 0px
 }
 
+.m-2 {
+  margin: 0.5rem
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto
@@ -120,9 +124,9 @@
   margin-bottom: 2.5rem
 }
 
-.my-4 {
-  margin-top: 1rem;
-  margin-bottom: 1rem
+.mx-0 {
+  margin-left: 0px;
+  margin-right: 0px
 }
 
 .mt-2 {
@@ -139,6 +143,10 @@
 
 .h-auto {
   height: auto
+}
+
+.w-full {
+  width: 100%
 }
 
 .max-w-full {
@@ -172,11 +180,6 @@
   text-align: center
 }
 
-.text-sm {
-  font-size: 0.875rem;
-  line-height: 1.25rem
-}
-
 .font-bold {
   font-weight: 700
 }
@@ -195,13 +198,6 @@
   --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
   box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow)
-}
-
-.post-content img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  /* optional: remove inline gaps, but not mandatory */
 }
 
 @media (min-width: 768px) {
