@@ -10,9 +10,9 @@ Naive rationality says something like:
 
 I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are. 
 
-I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic/object-level frame why this is the case.
+![](images/file-20250214135303206.png)
 
-![](images/kitten.png)
+I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic/object-level frame why this is the case.
 ## The problem TODO
 
 The big problem is that **beliefs and desires are the same sort of stuff**: priors, beliefs, expectations, whatever. The way desires are implemented is through beliefs: to want to eat is to have an expectation that you've eaten, and it's your prediction-error minimization machinery that drives you to eat. So there is no neat separation, there is no 'agent using info to accomplish set goal' and separate 'info about the world' - your goals are part of your beliefs about the world. 

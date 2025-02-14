@@ -1,35 +1,19 @@
-{{- /* Get the raw path from Markdown */ -}}
 {{- $src := .Destination -}}
-
-{{- /*
-     Attempt to load an image from Hugo's global "assets/" by that same path.
-     For example, if .Destination = "images/mental_gymnastics.png",
-     we do resources.Get("images/mental_gymnastics.png"), which looks in assets/images/...
-   */ -}}
 {{- $image := resources.Get $src -}}
 
-{{- if $image -}}
-  {{- /* If found, do an actual resize (e.g., "600x" keeps aspect ratio at max width 600px). */ -}}
-  {{- $resized := $image.Resize "600x" -}}
-  <img src="{{ $resized.RelPermalink | safeURL }}"
-       {{- with .PlainText }} alt="{{ . | safeHTML }}"{{ end }}
-       {{- with .Title }} title="{{ . | safeHTML }}"{{ end }} />
-  <p>
-  FIRST CASE
-  </p>
+{{- if not $image -}}
+  <p style="color: red;"><strong>Image not found:</strong> {{ $src }}</p>
 {{- else -}}
-  {{- /*
-       If not found as a resource, we simply correct "images/foo.png" to "/images/foo.png"
-       so the final <img> src is absolute. 
-     */ -}}
-  {{- if strings.HasPrefix $src "images/" -}}
-    {{- $src = print "/" $src -}}
-  {{- end -}}
-
-  <img src="{{ $src | safeURL }}"
-       {{- with .PlainText }} alt="{{ . | safeHTML }}"{{ end }}
-       {{- with .Title }} title="{{ . | safeHTML }}"{{ end }} />
-  <p>
-  SECOND CASE
-  </p>
+  {{- /* Example: convert to WebP, max width 2000px, quality 80 */ -}}
+  {{- $resized := $image.Resize "2000x webp q80" -}}
+  <figure>
+    <img
+      src="{{ $resized.RelPermalink | safeURL }}"
+      alt="{{ .PlainText | safeHTML }}"
+    />
+    {{- with .Title -}}
+      <figcaption>{{ . | safeHTML }}</figcaption>
+    {{- end -}}
+  </figure>
 {{- end -}}
+
