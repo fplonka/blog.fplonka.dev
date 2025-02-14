@@ -3,12 +3,12 @@ date: 2025-02-09
 title: You are the map, there is no territory
 draft: false
 ---
-Naive rationality says something like:
+A lot of people have a model of human rationality something like:
 - You have some goal.
 - If you have accurate beliefs about reality that will help you achieve your goal.
 - So clearly you should seek to have accurate beliefs.
 
-I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are. 
+Let's call this the "naive rationality" view. I think this doesn't always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are. 
 
 I think normies in particular understand this at an intuitive level, and so don't do the autistic truth-seeking thing as much. I will try to explain from the autistic/object-level frame why this is the case.
 ## The problem TODO
@@ -21,8 +21,6 @@ Consider a case where the agent/info separation does basically work. For example
 - I want to buy a laptop.
 - I read about the specs and prices of different laptops.
 - I buy a good laptop.
-
-%% (i say rationalistic/autistic etc with much sympathy, the people thinking this way are very much my ingroup) %%
 
 But now consider a case where, I claim, the separation doesn't really work. Note that this case is the sort of thing we viscerally care about, it's more important to our lives than buying a good laptop:
 - I want people to like me.
@@ -49,7 +47,7 @@ This is not absurd and I don't entirely disapprove of this way of thinking. But 
 ajdfkljlkadf
 akjdfljkadf
 
-2. **Why do this whole dance at all?**
+2. **Why do the mental gymnastics?**
 ![](images/mental_gymnastics.png "testing the cpation bs please work you fucking piece of shit please please please just work god damn it how hard can this be")
 
 - adds complexity
