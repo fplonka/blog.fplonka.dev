@@ -2,17 +2,23 @@
 {{- $image := resources.Get $src -}}
 
 {{- if not $image -}}
-  <p style="color: red;"><strong>Image not found:</strong> {{ $src }}</p>
+  <p style="color: red;">
+    <strong>Image not found:</strong> {{ $src }}
+  </p>
 {{- else -}}
-  {{- /* Example: convert to WebP, max width 2000px, quality 80 */ -}}
+  {{- /* e.g. resize to 2000px wide max, WebP, quality 80 */ -}}
   {{- $resized := $image.Resize "2000x webp q80" -}}
-  <figure>
+
+  <figure style="max-width: 100%; margin: 1em 0;">
     <img
+      style="max-width: 100%; height: auto;"
       src="{{ $resized.RelPermalink | safeURL }}"
       alt="{{ .PlainText | safeHTML }}"
     />
     {{- with .Title -}}
-      <figcaption>{{ . | safeHTML }}</figcaption>
+      <figcaption>
+        {{ . | safeHTML }}
+      </figcaption>
     {{- end -}}
   </figure>
 {{- end -}}
