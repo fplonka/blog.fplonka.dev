@@ -49,10 +49,11 @@ This is not absurd and I don't entirely disapprove of this way of thinking. But 
 ajdfkljlkadf
 akjdfljkadf
 
-2. adlkfjalkdfj
-aldjfkladf
-adfjklajdf
+1. **Why do this whole dance at all?**
+ ![[Pasted image 20250214112825.png]]
 
+kajdflkajdf
+jldakfjkladf
 
 - adds complexity
 - inductive prior on low complexity makes this hard
