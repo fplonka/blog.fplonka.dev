@@ -120,6 +120,11 @@
   margin-bottom: 2.5rem
 }
 
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem
+}
+
 .mt-2 {
   margin-top: 0.5rem
 }
@@ -130,6 +135,14 @@
 
 .mt-6 {
   margin-top: 1.5rem
+}
+
+.h-auto {
+  height: auto
+}
+
+.max-w-full {
+  max-width: 100%
 }
 
 .max-w-screen-md {
@@ -155,9 +168,27 @@
   padding: 1.5rem
 }
 
+.text-center {
+  text-align: center
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem
+}
+
+.font-bold {
+  font-weight: 700
+}
+
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity))
+}
+
+.text-red-500 {
+  --tw-text-opacity: 1;
+  color: rgb(239 68 68 / var(--tw-text-opacity))
 }
 
 .shadow-md {
