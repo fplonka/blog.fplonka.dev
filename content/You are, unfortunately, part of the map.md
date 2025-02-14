@@ -50,9 +50,8 @@ ajdfkljlkadf
 akjdfljkadf
 
 1. **Why do this whole dance at all?**
- ![[Pasted image 20250214112825.png]]
 
-kajdflkajdf
+![](Pasted%20image%2020250214113510.png)
 jldakfjkladf
 
 - adds complexity
