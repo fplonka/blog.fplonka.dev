@@ -1,6 +1,6 @@
 #!/bin/bash
 
-tailwindcss -i tailwind.css -o static/css/output.css
+tailwindcss -i tailwind.css -o assets/css/output.css
 
 # 1. Clear old content
 rm -rf content/*

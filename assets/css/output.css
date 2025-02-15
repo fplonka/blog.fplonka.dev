@@ -141,6 +141,10 @@
   margin-top: 1.5rem
 }
 
+.block {
+  display: block
+}
+
 .h-auto {
   height: auto
 }
@@ -182,6 +186,11 @@
 
 .font-bold {
   font-weight: 700
+}
+
+.text-blue-200 {
+  --tw-text-opacity: 1;
+  color: rgb(191 219 254 / var(--tw-text-opacity))
 }
 
 .text-gray-500 {
