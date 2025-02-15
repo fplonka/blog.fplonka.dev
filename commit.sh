@@ -4,7 +4,7 @@
 rm -rf content/*
 
 # 2. Copy from Obsidian into 'content/'
-cp -R "/Users/filip/Library/Mobile Documents/iCloud~md~obsidian/Documents/synced vault/blog.fplonka.dev"/. ./content
+cp -R "/Users/filip/Library/Mobile Documents/iCloud~md~obsidian/Documents/synced vault/blog.fplonka.dev"/*.md ./content
 
 # 3. Also copy images from Obsidian into Hugo's assets/images/ if you want them processed
 rm -rf assets/images/*
