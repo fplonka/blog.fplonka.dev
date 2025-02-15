@@ -3,7 +3,7 @@
 
 if you need to generate the tailwind stylesheets:
 ```
-tailwindcss -i assets/css/tailwind.css -o static/css/output.css --watch
+tailwindcss -i tailwind.css -o assets/css/output.css --watch
 ```
 
 build with:

@@ -1,32 +1,13 @@
-<head>
-  <title>
-      {{ if .Title }}
-        {{ title .Title }}
-      {{ else }}
-        {{ title (replace .File.BaseFileName "-" " ") }}
-      {{ end }}
-  </title>
-  <link href="/css/output.css" rel="stylesheet" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+{{ define "title" }}{{ partial "title.html" . }}{{ end }}
 
-<body class="bg-zinc-100">
-  <div class="shadow-md my-10 mx-auto p-6 md:p-10 max-w-screen-md bg-white border-zinc-100">
-    <h1 class="m-0">
-      {{ if .Title }}
-        {{ title .Title }}
-      {{ else }}
-        {{ title (replace .File.BaseFileName "-" " ") }}
-      {{ end }}
-    </h1>
-    <p class="text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</p>
 
-    <div class="mt-4">
-      {{ .Content }}
-    </div>
+{{ define "main" }}
+<h1 class="m-0">{{ partial "title.html" . }}</h1>
+<p class="text-gray-500">{{ .Date.Format "Jan 2, 2006" }}</p>
 
-    <p class="mt-6"><a href="/">← Back to home</a></p>
-  </div>
-</body>
+<div class="mt-4">
+  {{ .Content }}
+</div>
 
-</html>
+<p class="mt-6"><a href="/">← Back to home</a></p>
+{{ end }}

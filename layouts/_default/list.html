@@ -1,50 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ define "title" }}The Blog{{ end }}
 
-<head>
-  <title>filip's blog</title>
-  <link href="/css/output.css" rel="stylesheet" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
+{{ define "main" }}
+<h1 class="m-0">The Blog</h1>
 
-<body class="bg-zinc-100">
-  <div class="shadow-md my-10 mx-auto p-6 md:p-10 max-w-screen-md bg-white border-zinc-100">
-    <h1 class="m-0">The Blog</h1>
+<p>Collected writings, thoughts, musings. But tread carefully:</p>
 
-    <p>
-      Collected writings, thoughts, musings. But tread carefully:
-    </p>
+<blockquote cite="https://datatracker.ietf.org/doc/html/rfc1149">
+  <p>
+    And don't all philosophical theories do the same thing, leading man by a way of thought that is strange and
+    unnatural to him to the knowledge of what he has long known and known so certainly that without it he would not
+    even be able to live?
+  </p>
+  <p>—Leo Tolstoy, <cite>Anna Karenina</cite></p>
+</blockquote>
 
-    <blockquote cite="https://datatracker.ietf.org/doc/html/rfc1149">
-      <p>
-        And don't all philosophical theories do the same thing, leading man by a way of thought that is strange and
-        unnatural to him to the knowledge of what he has long known and known so certainly that without it he would not
-        even
-        be able to live?
-      </p>
-      <p>—Leo Tolstoy, <cite>Anna Karenina</cite></p>
-    </blockquote>
+<h2>Posts</h2>
 
-    <!-- <p>
-      All posts:
-    </p> -->
-
-    <h2>Posts</h2>
-
-    <ul>
-      {{ range .Pages }}
-      <li class="mt-2">
-        <a href="{{ .RelPermalink }}">
-    {{ if .Title }}
-        {{ title .Title }}
-      {{ else }}
-        {{ title (replace .File.BaseFileName "-" " ") }}
-      {{ end }}
-        </a> - {{ .Date.Format "Jan 2, 2006" }}
-      </li>
-      {{ end }}
-    </ul>
-  </div>
-</body>
-
-</html>
+<ul>
+  {{ range .Pages }}
+  <li class="mt-2">
+    <a href="{{ .RelPermalink }}">
+      {{ partial "title.html" . }}
+    </a> - {{ .Date.Format "Jan 2, 2006" }}
+  </li>
+  {{ end }}
+</ul>
+{{ end }}
