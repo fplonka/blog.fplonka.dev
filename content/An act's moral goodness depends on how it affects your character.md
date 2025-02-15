@@ -7,6 +7,15 @@ I think this last type of second-order consequence, where an act contributes ver
 
 ![](images/file-20250215095306320.png "The tweet which inspired this thought.")
 
+On one hand this is a bit unsatisfying in that it means evaluating the moral goodness of an act is computationally intractable. But on the other, things do be like that sometimes. Some meandering thoughts related to this idea now follow.
+
+```
+code example
+```
+
+
+## What kind of person exactly does the act make you become?
+- hypotheses are biased by their simplicity
 
 
 - on one hand this is cowardly because I can invoke this to judge things the way i want

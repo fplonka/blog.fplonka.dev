@@ -52,7 +52,10 @@ akjdfljkadf
 - adds complexity
 - inductive prior on low complexity makes this hard
 - easier when you're smarter because you can handle the complexity, which is part of why this works for rats and not for normies
+	- potentially the prediction-error reducing thing for YOU is to do to the autistic truth-seeking, because you care about bla bla
 - wanting to do this separation is because you like the agent-worldmodel model. which is fair enough, but it's just a model, and nature was smarter, it found a design where beliefs and actions are one and the same, and you shouldn't be excessively faithful to this model. 
+
+- 
 
 it is fair to frame it like this: TODO you're are choosing to WANT to 
 
