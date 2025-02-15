@@ -23,7 +23,7 @@ So if you punched Jack on Tuesday evening, your character changes such that you'
 Mandatory predictive-processing digression: I don't mean 'character' and 'updates' abstractly and philosophically, I mean these to refer to real changes in your brain's real world-model. In the [predictive processing frame](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/), somewhat speculatively, it makes sense to think of two 'you's: you, the bio-physical cellular automaton whose behavior is governed by physical law, and you, the self, the ego, i.e. your brain's model of what you-the-bio-automaton will do. The brain's world-model is of course part of the bio-automaton, and also your brain's world-model drives the bio-automaton's behavior. So when your world-model is predicting the bio-automaton it also has to predict what it itself will do, leading to some funny weird recursion business. I really like this idea and it deserves its own post at some point, but the relevant point for now is that in this frame, when you do something, this is useful evidence about what you-the-bio-automaton do: your brain will do some kind of approximate bayesian inference to update its own theory of how 'you' behave. This is e.g. how habits are implemented - you do something regularly, you-the-world-model make the inference that this is the sort of thing you-the-bio-automaton does, and the updated world-model drives the bio-automaton to behave this way even more in the future. The update after punching someone is analogous. 
 ## How this relates to Kant's murderer question
 
-is generalizability some approximation of this inference thing?
+is universalizability some approximation of this inference thing?
 
 But at a high-level, I think two 
 
