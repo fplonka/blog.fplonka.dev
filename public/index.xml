@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</link>
+      <link>https://example.org/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</guid>
+      <guid>https://example.org/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</guid>
       <description>&lt;p&gt;Acts have obvious direct consequences. For example shouting at someone in public will make make the person you&amp;rsquo;re shouting at upset. But they also have second-order consequences: by shouting at someone, you contribute to creating the sort of world where people shout at each other. You probably lower social trust, you probably make shouting in public a bit more acceptable. And you become the sort of person who shouts at people.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/mariams-blog/</link>
+      <link>https://example.org/mariams-blog/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mariams-blog/</guid>
+      <guid>https://example.org/mariams-blog/</guid>
       <description>&lt;p&gt;I love my wonderful boyfriend&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/you-are-unfortunately-part-of-the-map/</link>
+      <link>https://example.org/you-are-unfortunately-part-of-the-map/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/you-are-unfortunately-part-of-the-map/</guid>
+      <guid>https://example.org/you-are-unfortunately-part-of-the-map/</guid>
       <description>&lt;p&gt;A lot of people have a model of human rationality something like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You have some goal.&lt;/li&gt;&#xA;&lt;li&gt;If you have accurate beliefs about reality that will help you achieve your goal.&lt;/li&gt;&#xA;&lt;li&gt;So clearly you should seek to have accurate beliefs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s call this the &amp;ldquo;naive rationality&amp;rdquo; view. I think this doesn&amp;rsquo;t always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/how-to-be-a-good-thermostat/</link>
+      <link>https://example.org/how-to-be-a-good-thermostat/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-be-a-good-thermostat/</guid>
+      <guid>https://example.org/how-to-be-a-good-thermostat/</guid>
       <description>&lt;p&gt;Say we take predictive coding seriously and accept that the chief goal of a human is minimizing prediction error. Does this imply anything useful about how we should live our lives? Can we use concepts from these beautiful concepts from the intersection of neuroscience and deep learning to write pithy new self-help books? I think we can.&lt;/p&gt;&#xA;&lt;p&gt;(If you&amp;rsquo;re unclear on what predictive coding is, read &lt;a href=&#34;https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/&#34;&gt;Scott&amp;rsquo;s post about it&lt;/a&gt; first, I promise it&amp;rsquo;s excellent).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</link>
+      <link>https://example.org/sally-rooney-and-the-modern-formlessness-of-relationships/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</guid>
+      <guid>https://example.org/sally-rooney-and-the-modern-formlessness-of-relationships/</guid>
       <description>&lt;p&gt;there used to be stronger guiding ideals / expectations for what relations between people should be like. now things are more formless. you can be fucking and that can mean anything, you can be friends with benefits or a situationship or just dating or long term committed, and then even when you have one of these labels there&amp;rsquo;s a vagueness around what is implied in terms of expectations duties responsibilities. or you can be &amp;ldquo;not putting a label on it&amp;rdquo; - explicit formlessness.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/status-as-a-prerequisite-for-genius/</link>
+      <link>https://example.org/status-as-a-prerequisite-for-genius/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/status-as-a-prerequisite-for-genius/</guid>
+      <guid>https://example.org/status-as-a-prerequisite-for-genius/</guid>
       <description>&lt;p&gt;Maybe genius takes some arrogance and this arrogance requires a high self-worth or sense of social status. Take Richard Feynman responding in the naive way when talking with someone much more senior than him, bluntly saying when he thinks something doesn&amp;rsquo;t make sense. So he would rarely defer in social situations if he thought he was right:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;All the big shots except for Hans Bethe happened to be away at the time, and what Bethe needed was someone to talk to, to push his ideas against. Well, he comes in to this little squirt in an office and starts to argue, explaining his idea. I say, &amp;ldquo;No, no, you&amp;rsquo;re crazy. It&amp;rsquo;ll go like this.&amp;rdquo; And he says, &amp;ldquo;Just a moment,&amp;rdquo; and explains how he&amp;rsquo;s not crazy, I&amp;rsquo;m crazy. And we keep on going like this. You see, when I hear about physics, I just think about physics, and I don&amp;rsquo;t know who I&amp;rsquo;m talking to, so I say dopey things like &amp;ldquo;no, no, you&amp;rsquo;re wrong,&amp;rdquo; or &amp;ldquo;you&amp;rsquo;re crazy.&amp;rdquo; But it turned out that&amp;rsquo;s exactly what he needed. I got a notch up on account of that, and I ended up as a group leader under Bethe with four guys under me.&lt;/p&gt;</description>
     </item>
   </channel>
