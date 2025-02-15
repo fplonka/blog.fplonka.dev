@@ -8,15 +8,31 @@ I think this last type of second-order consequence, where an act contributes ver
 ![](images/file-20250215095306320.png "The tweet which inspired this thought.")
 
 On one hand this is a bit unsatisfying in that it means evaluating the moral goodness of an act is computationally intractable. But on the other, things do be like that sometimes. Some meandering thoughts related to this idea now follow.
+## What kind of person does the act make you become?
 
-```
-code example
-```
+Ok, so you punched someone. In what way does this change your character? What kind of person does this make you become? 
+
+I think this question is slightly doomed, because your brain's black-box deep-learning machinery will do this unconsciously for you, and it will do it in a way which is probably not very amenable to neat interpretation. But attempting anyways, I think two things will be taken into account: the hypothesis's explanatory power and its simplicity. 
+
+So if you punched Jack on Tuesday evening, your character changes such that you're the sort of person who punches Jack on Tuesday evenings. But it only moves in this direction a tiny bit, because this hypothesis is so complicated and awkward, even though it explains your behavior quite well. Your character will probably also make
+
+But at a high-level, I think two 
 
 
-## What kind of person exactly does the act make you become?
-- hypotheses are biased by their simplicity
+## Does this have any practical takeaways at all or are we just playing word games?
 
+in a way not very amenable to 
+
+
+As is mandatory for this blog, to answer this question I must first plug the theory of predictive processing. Read [Scott's excellent post for crucial context](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/). 
+
+
+
+
+- hypotheses are favored based on simplicity and being good explanations
+- doomed to think about this consciously, this is the domain of black box machine learnign bs
+
+- as is mandatory for this blog, i must note that this fits in nicely with the predictive coding paradigm. your 'self' is a model of 
 
 - on one hand this is cowardly because I can invoke this to judge things the way i want
 
