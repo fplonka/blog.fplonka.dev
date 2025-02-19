@@ -13,3 +13,4 @@ draft: false
 	- the inductive bias towards simplicity has to have some implementation in the brain, right? i know that neural networks have this, but is do different architectures have it to different extents? should we predict that good liars have a stronger simplicity-drive-source, however it might be implemented?
 	- a bit of an out there hypothesis: [in the vascocomputation theory](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/) tanha is how the compression-drive is implemented. so maybe good liars are happier?!
 - potentially you get fucked the other way if you let too much of this kind of complexity in your life? because then you're also less biased against a hypothesis like, 'i will totally go to bed in a sec, just 5 more minutes of twitter'
+	- do good liars often procrastinate too much?
