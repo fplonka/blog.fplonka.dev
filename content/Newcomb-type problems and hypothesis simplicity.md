@@ -2,7 +2,7 @@
 date: 2025-02-19
 draft: false
 ---
-![](images/file-20250219195756526.png)
+![](images/file-20250219195756526.png "tweet which inspired this post")
 - related to the thoughts in the act's moral goodness post
 - actually this is isomorphic to the 'being honest is simpler'
 - the reason lying well is difficult is this bias towards simpler hypotheses! 
