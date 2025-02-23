@@ -19,4 +19,5 @@ interestingly chris seems to mention quite a few people i've met irl, i think i 
 - bad things we're doing being locally optimal and in at least some sense adaptive - yes yes yes
 	- e.g. depression being "useful" in that it's a strategy/solution to the problem of not finding social interaction emotionally safe
 - boundaries idea: confused, i don't like it. or i'm retarded.
+	- ok, the second post on it explains it better.
 - gets predictive coding 🥰
