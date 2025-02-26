@@ -1,6 +1,6 @@
 ---
 date: 2025-02-09
-draft: false
+draft: true
 ---
 A lot of people have a model of human rationality something like:
 - You have some goal.

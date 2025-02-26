@@ -1,5 +1,6 @@
 ---
 date: 2025-02-15
+draft: true
 ---
 Acts have obvious direct consequences. For example shouting at someone in public will make make the person you're shouting at upset. But they also have second-order consequences: by shouting at someone, you contribute to creating the sort of world where people shout at each other. You probably lower social trust, you probably make shouting in public a bit more acceptable. And you become the sort of person who shouts at people.
 

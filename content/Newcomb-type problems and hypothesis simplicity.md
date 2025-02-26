@@ -1,6 +1,6 @@
 ---
 date: 2025-02-19
-draft: false
+draft: true
 ---
 ![](images/file-20250219195756526.png "tweet which inspired this post")
 - related to the thoughts in the act's moral goodness post

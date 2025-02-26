@@ -2,29 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</loc>
+    <loc>http://localhost:1313/the-spectrum-between-philosophy-and-science/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/the-concept-of-true-self-can-be-operationalized-with-predictive-coding/</loc>
+    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/on-the-worst-argument-in-the-world-and-logical-deduction/</loc>
+    <lastmod>2025-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/newcomb-type-problems-and-hypothesis-simplicity/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes-from-binging-chrislaking.blog/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/what-do-people-mean-when-they-ask-why-you-think-something/</loc>
+    <lastmod>2025-02-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</loc>
     <lastmod>2025-02-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/mariams-blog/</loc>
+    <loc>http://localhost:1313/mariams-blog/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/you-are-unfortunately-part-of-the-map/</loc>
+    <loc>http://localhost:1313/you-are-unfortunately-part-of-the-map/</loc>
     <lastmod>2025-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/how-to-be-a-good-thermostat/</loc>
+    <loc>http://localhost:1313/how-to-be-a-good-thermostat/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/sally-rooney-and-the-modern-formlessness-of-relationships/</loc>
+    <loc>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/status-as-a-prerequisite-for-genius/</loc>
+    <loc>http://localhost:1313/status-as-a-prerequisite-for-genius/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

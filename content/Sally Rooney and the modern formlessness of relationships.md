@@ -1,6 +1,6 @@
 ---
 date: 2024-11-09
-draft: false
+draft: true
 ---
 there used to be stronger guiding ideals / expectations for what relations between people should be like. now things are more formless. you can be fucking and that can mean anything, you can be friends with benefits or a situationship or just dating or long term committed, and then even when you have one of these labels there's a vagueness around what is implied in terms of expectations duties responsibilities. or you can be "not putting a label on it" - explicit formlessness.
 
