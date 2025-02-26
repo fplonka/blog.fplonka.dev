@@ -1,5 +1,5 @@
 {{ if .Title }}
-{{ if .Draft }}DRAFT: {{ end }}{{ title .Title }}
+{{ if .Draft }}Draft: {{ end }}{{ title .Title }}
 {{ else }}
-{{ if .Draft }}DRAFT: {{ end }}{{ title (replace .File.BaseFileName "-" " ") }}
+{{ if .Draft }}Draft: {{ end }}{{ title (replace .File.BaseFileName "-" " ") }}
 {{ end }}
