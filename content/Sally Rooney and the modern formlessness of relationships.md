@@ -12,16 +12,8 @@ some context is required. i'm sceptical of this separation because i'm big on a 
 
 on this view preferences are expectations about how the world is, and the prediction error minimisation drive is what causes you to act on your preferences. so it's not that you have preferences moulded by societal expectations, it's that the preferences and expectations are made of the same kind of stuff, such that you can't separate one from the other. so what happens once society no longer hands you down strong expectations about how to behave in different relationships? 
 
-- relationships still happens because there are some expectations and also strong bodily hyperpriors for company / sex / intimacy 
-- but it's harder in the most fundamental way possible 
-- but also this makes weird arrangements possible. sally rooney characters commonly end up in some kind of situation where they really care for the relationship, but where there are no preexisting expectations to guide them. but they still try, and try to figure out the roles and expectations for themselves. very respectable that they attempt it - the default zoomer response is inaction, not trying. 
-- these are arrangements which wouldn't be possible without this societal formlessness, they're a microcosm of the beautiful upside of this terrifying freedom. peter at the end of intermezzo is the example i'm thinking of here.
+well, relationships still happens because there are some expectations and also strong bodily hyperpriors for company / sex / intimacy (i.e. you have, at some level, hard-coded expectations about these things that are hard to override). 
 
+but also, relationships are harder in the most fundamental way possible. they are harder to make sense of, more unpredictable, and so more aversive. i need to write a proper detailed introduction to predictive coding somewhere, because i feel i'm not giving enough context here. but in predictive coding it's quite natural to think of your 'self-image', your model of what kind of person you are, which in a self-fulfilling-prophecy kind of way drives your behavior. and one way i understand this increased fundamental difficulty of modern relationships is that they destabilize this sense of self, they make it harder to have a simple coherent understanding of what sort of person you are.
 
-in so far as you have true deep down preferences, they're the hard-coded homeostasis beliefs: my body is not too hot or too cold, i have this level of oxygen in my blood, etc. that or more regular brain-y beliefs that just go very deep and are hard to dislodge, i do think that's a thing.
-
-
-
-fundamentally this is because preferences *are* beliefs, because what the brain does aj
-
-the framework which makes it explicit is predictive coding.
+but also, this formlessness makes weird arrangements possible. sally rooney characters commonly end up in some kind of situation where they really care for the relationship, but where there are no preexisting expectations to guide them. but they still try, and try to figure out the roles and expectations for themselves. very respectable that they attempt it - the default zoomer response is inaction, not trying. these are arrangements which wouldn’t be possible without this societal formlessness, **they’re a microcosm of the beautiful upside of this terrifying freedom**. peter at the end of intermezzo is the example i’m thinking of here.
