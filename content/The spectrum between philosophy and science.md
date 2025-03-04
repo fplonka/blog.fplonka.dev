@@ -1,6 +1,6 @@
 ---
 date: 2025-02-25
-draft: true
+draft: false
 ---
 Good models of reality should: 
 - Predict reality nicely.
@@ -15,5 +15,3 @@ Some things can be seen as a mix of both. Consider doing a meta-analysis to dete
 Of course, these are definitions I propose because I found them nice, they are somewhat arbitrary. One could phrase things another way: science is about predicting reality as accurately as possible. This requires us to care about model simplicity, because simpler models generalize better because of Occam's razor / Vapnik–Chervonenkis dimension / induction / whatever (this is its own philosophical problem I suppose). When one is holding predictions ~constant and trying to reduce model complexity, one is doing philosophy. In the case of the fluoride meta-analysis, reducing complexity while trying to still make sense of the existing research could help us find explanations which generalize and predict the future well. In the case of contemplating why there's something rather than nothing, probably not.
 
 Is it true that philosophy doesn't care about predictions? I think it basically is. Insofar as it has predictions, the predictions are about what beliefs you should have. For example: maybe if you believe that God exists you should believe that there is no evil in the world. But there is evil in the world, so you have to add complexity to your theory to account for that. So the predictions are more like "implications about complications in your model" and we can still understand this process as one of trying to simplify our model.
-
-a thought: don't care about future data points, just training data. philosophy is which model with given accuracy is best, science is which model is most accurate.
