@@ -10,7 +10,7 @@ the problem is that in the case for the goodness of formlessness there is an imp
 
 some context is required. i'm skeptical of this separation because i'm big on a theory called predictive coding, which posits that what the brain is doing is just minimizing prediction error: being as unsurprised by sensory data as possible. there are two ways to do this. you can update your beliefs to predict sensory data better. or you can act in the world to make what you perceive better match what you expect. beliefs + the prediction error minimization drive is what causes action!
 
-on this view preferences are expectations about how the world is, and the prediction error minimization drive is what causes you to act on your preferences. so it's not that you have preferences moulded by societal expectations, it's that the preferences and expectations are made of the same kind of stuff, such that you can't separate one from the other. so what happens once society no longer hands you down strong expectations about how to behave in different relationships? 
+on this view desires are expectations about how the world is, and the prediction error minimization drive is what causes you to act on your preferences. so it's not that you have preferences moulded by societal expectations, it's that the preferences and expectations are made of the same kind of stuff, such that you can't separate one from the other. so what happens once society no longer hands you down strong expectations about how to behave in different relationships? 
 
 well, relationships still happens because there are some expectations and also strong bodily hyperpriors for company / sex / intimacy (i.e. you have, at some level, hard-coded expectations about these things that are hard to override). 
 
