@@ -165,6 +165,10 @@
   max-width: 768px
 }
 
+.grow {
+  flex-grow: 1
+}
+
 .border-zinc-100 {
   --tw-border-opacity: 1;
   border-color: rgb(244 244 245 / var(--tw-border-opacity))
