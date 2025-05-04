@@ -38,41 +38,10 @@ First, because changing beliefs is generally difficult, and completely refactori
 
 Second, because your beliefs are tied up with other beliefs which are hard-coded. If you don't eat for a while you will get hungry, good luck believing you're not. Similarly, your desire for social approval and physical touch and sex are also difficult to manually override. But your complex beliefs are "grounded" in these hard-coded beliefs! You want a good career because you think then people will respect you, which will give you social validation, which you want because it's associated with opportunities for sex, which is associated with physiological/chemical processes which you are basically wired to want. In reality this chain is some complicated chain of uninterpretable black-box bayesian inferences, but the result is the same: it's difficult to wirehead yourself into being deeply content with your life. 
 
-## Isn't this just Psycho-Cybernetics
+## Isn't this just Psycho-Cybernetics?
 
-I must confess, what I'm trying to do with this blog post has already been done very well by a 1960 self-help booked called Psycho-Cybernetics. It phrases similar concepts in terms of your self-image, basically your self-fulfilling-prophecy about what kind of person you are, and claims that to achieve what you want you have to adjust your self-image so that it's naturally guiding you towards it. I think of this in terms of moving your personality out of a local optima, or changing your beliefs about yourself for the better (with "better" here being somewhat objective, due to the hard-coded prediction errors mentioned previously) - see also TODO this blog post about personality formation.
+I must confess, what I'm trying to do with this blog post has already been done very well by a 1960 self-help booked called Psycho-Cybernetics. It phrases similar concepts in terms of your self-image -- basically your self-fulfilling-prophecy about what kind of person you are -- and claims that to achieve what you want you have to adjust your self-image so that it's naturally guiding you towards it. I think of this in terms of moving your personality out of a local optima, or changing your beliefs about yourself for the better (with "better" here being somewhat objective, due to the hard-coded prediction errors mentioned previously) - see also [this excellent blog post](https://meltingasphalt.com/personality-the-body-in-society/) about personality formation.
 
 I think the most interesting takeaway from Pyscho-Cybernetics is the emphasis on mental/physical relaxation combined with visualization. This is practical advice on how to adjust your priors! You do a body scan muscle relaxation thing and then try to concretely visualize your desired outcome. And then, importantly, over the following days/weeks/months you let your prediction-error reduction "steering" mechanism naturally guide you, you don't need to do much consciously other than trying not get in the way.
 
 The book is generally very good - if you think this line of thought is interesting I recommend it as a kind of practical treatment of the "how" of modifying your beliefs for the better. Curiously, its self-image adjustment idea rhymes a lot with the idea of manifesting, and maybe with what hypnotherapists do.
-
----------------
-
-
-
-also this aligns nicely with manifesting
-
-
-
-interesting point is the need to relax
-
-Some adjacent and relevant ideas are also explained in TODO this blog post about personality formation, which I think has a natural interpretation in predictive coding terms. 
-
-If you consider the previous point about hard-coded beliefs, it actually makes sense to think about "better" and "worse" set points / beliefs, in the sense that they can do better or worse at making these "fixed" predictions come true. Your set point can be stuck in a local minima such that it will be good for you to try and move it, for example in the direction of becoming more confident or extraverted. I think this is the core idea of a 1960 self-help book called Psycho-Cybernetics, which I confess tackles the 
-
-
-
-Here I have to shout out a self-help book from 1960 called psychocybernetics, 
-
-
-(For adjacent thoughts and more on why everyone isn't already maximally confident or extraverted, see [this great blog post](https://meltingasphalt.com/personality-the-body-in-society/)). 
-
-
-
-
-
-really, this idea could be rephrased as 'contemplate what the Good is, and follow it'. 
-
-
-
-
