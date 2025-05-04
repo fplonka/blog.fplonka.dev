@@ -46,7 +46,7 @@ I think the most interesting takeaway from Pyscho-Cybernetics is the emphasis on
 
 The book is generally very good - if you think this line of thought is interesting I recommend it as a kind of practical treatment of the "how" of modifying your beliefs for the better. Curiously, its self-image adjustment idea rhymes a lot with the idea of manifesting, and maybe with what hypnotherapists do.
 
-
+---------------
 
 
 

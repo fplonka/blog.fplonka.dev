@@ -111,6 +111,10 @@ body {
   --tw-contain-style:  ;
 }
 
+.fixed {
+  position: fixed;
+}
+
 .relative {
   position: relative;
 }
