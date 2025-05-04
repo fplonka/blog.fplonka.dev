@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:57593/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57593/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/come-on-muscle-growth-is-obviously-a-sigmoid/</link>
+      <link>http://localhost:57593/come-on-muscle-growth-is-obviously-a-sigmoid/</link>
       <pubDate>Sun, 27 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/come-on-muscle-growth-is-obviously-a-sigmoid/</guid>
+      <guid>http://localhost:57593/come-on-muscle-growth-is-obviously-a-sigmoid/</guid>
       <description>&lt;p&gt;Fitness people often talk about beginner gains, where you start training and gain muscle quickly. Then after you train for a while the gains slow down. I think the implied graph of total muscle mass gained over time is something like &amp;ldquo;linear at the beginning then flattening after a year or two&amp;rdquo;. This feels obviously wrong to me!&lt;/p&gt;&#xA;&lt;p&gt;In particular, this feels like the sort of thing which should really be sigmoidal: slow at the beginning, then fast in the middle, then slow at the end:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/the-spectrum-between-philosophy-and-science/</link>
+      <link>http://localhost:57593/the-spectrum-between-philosophy-and-science/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-spectrum-between-philosophy-and-science/</guid>
+      <guid>http://localhost:57593/the-spectrum-between-philosophy-and-science/</guid>
       <description>&lt;p&gt;Good models of reality should:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Predict reality nicely.&lt;/li&gt;&#xA;&lt;li&gt;Be simple.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I think it&amp;rsquo;s sometimes useful to think of science and philosophy of trying to do the same thing, in that they&amp;rsquo;re looking for good models of reality. But they differ in which part they optimize for: you do philosophy when you&amp;rsquo;re mostly thinking about which explanation is simplest, and you do science when you&amp;rsquo;re mostly thinking about which explanation predicts reality best.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/the-concept-of-true-self-can-be-operationalized-with-predictive-coding/</link>
+      <link>http://localhost:57593/the-concept-of-true-self-can-be-operationalized-with-predictive-coding/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/the-concept-of-true-self-can-be-operationalized-with-predictive-coding/</guid>
+      <guid>http://localhost:57593/the-concept-of-true-self-can-be-operationalized-with-predictive-coding/</guid>
       <description>&lt;p&gt;core idea: in what way would your self-model change if you simplified it? same predictions but simpler. that&amp;rsquo;s the &amp;ldquo;truer&amp;rdquo;. see if it makes sense on some examples.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/on-the-worst-argument-in-the-world-and-logical-deduction/</link>
+      <link>http://localhost:57593/on-the-worst-argument-in-the-world-and-logical-deduction/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/on-the-worst-argument-in-the-world-and-logical-deduction/</guid>
+      <guid>http://localhost:57593/on-the-worst-argument-in-the-world-and-logical-deduction/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.lesswrong.com/posts/yCWPkLi8wJvewPbEp/the-noncentral-fallacy-the-worst-argument-in-the-world&#34;&gt;Scott writes&lt;/a&gt;:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;I declare the Worst Argument In The World to be this: &amp;ldquo;X is in a category whose archetypal member gives us a certain emotional reaction. Therefore, we should apply that emotional reaction to X, even though it is not a central category member.&amp;rdquo;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;An gives the example:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Taxation is &lt;em&gt;theft!&lt;/em&gt;&amp;rdquo; True if you define theft as &amp;ldquo;taking someone else&amp;rsquo;s money regardless of their consent&amp;rdquo;, but though the archetypal case of theft (breaking into someone&amp;rsquo;s house and stealing their jewels) has nothing to recommend it, taxation (arguably) does. In the archetypal case, theft is both unjust and socially detrimental. Taxation keeps the first disadvantage, but arguably subverts the second disadvantage if you believe being able to fund a government has greater social value than leaving money in the hands of those who earned it. The question then hinges on the relative importance of these disadvantages. Therefore, you can&amp;rsquo;t dismiss taxation without a second thought just because you have a natural disgust reaction to theft in general. You would also have to prove that the supposed benefits of this form of theft don&amp;rsquo;t outweigh the costs.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/newcomb-type-problems-and-hypothesis-simplicity/</link>
+      <link>http://localhost:57593/newcomb-type-problems-and-hypothesis-simplicity/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/newcomb-type-problems-and-hypothesis-simplicity/</guid>
-      <description>&lt;p&gt;&lt;figure class=&#34;max-w-full mx-0&#34;&gt;&#xA;    &lt;img&#xA;      class=&#34;w-full h-auto&#34;&#xA;      src=&#34;http://localhost:1313/images/file-20250219195756526_hu_cf3382efa4acf371.webp&#34;&#xA;      alt=&#34;&#34;&#xA;    /&gt;&lt;figcaption class=&#34;text-gray-500 text-center m-2&#34;&gt;&#xA;        tweet which inspired this post&#xA;      &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;related to the thoughts in the act&amp;rsquo;s moral goodness post&lt;/li&gt;&#xA;&lt;li&gt;actually this is isomorphic to the &amp;lsquo;being honest is simpler&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;the reason lying well is difficult is this bias towards simpler hypotheses!&#xA;&lt;ul&gt;&#xA;&lt;li&gt;an awkward and complex hypothesis: &amp;ldquo;i&amp;rsquo;m someone who slacks off at work, but during interviews acts exactly like a hard-working person who won&amp;rsquo;t slack off&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;a simpler hypothesis: &amp;ldquo;i&amp;rsquo;m a hard working person who won&amp;rsquo;t slack off&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;of course this is possible to do&#xA;&lt;ul&gt;&#xA;&lt;li&gt;potentially this has some hints about what sociopathic intelligence is like? that people good at lying are good handling this kind of complexity in your model of what kind of person you are&lt;/li&gt;&#xA;&lt;li&gt;the inductive bias towards simplicity has to have some implementation in the brain, right? i know that neural networks have this, but is do different architectures have it to different extents? should we predict that good liars have a stronger simplicity-drive-source, however it might be implemented?&lt;/li&gt;&#xA;&lt;li&gt;a bit of an out there hypothesis: &lt;a href=&#34;https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/&#34;&gt;in the vascocomputation theory&lt;/a&gt; tanha is how the compression-drive is implemented. so maybe good liars are happier?!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;potentially you get fucked the other way if you let too much of this kind of complexity in your life? because then you&amp;rsquo;re also less biased against a hypothesis like, &amp;lsquo;i will totally go to bed in a sec, just 5 more minutes of twitter&amp;rsquo;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;do good liars often procrastinate too much?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:57593/newcomb-type-problems-and-hypothesis-simplicity/</guid>
+      <description>&lt;p&gt;&lt;figure class=&#34;max-w-full mx-0&#34;&gt;&#xA;    &lt;img&#xA;      class=&#34;w-full h-auto&#34;&#xA;      src=&#34;http://localhost:57593/images/file-20250219195756526_hu_cf3382efa4acf371.webp&#34;&#xA;      alt=&#34;&#34;&#xA;    /&gt;&lt;figcaption class=&#34;text-gray-500 text-center m-2&#34;&gt;&#xA;        tweet which inspired this post&#xA;      &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;related to the thoughts in the act&amp;rsquo;s moral goodness post&lt;/li&gt;&#xA;&lt;li&gt;actually this is isomorphic to the &amp;lsquo;being honest is simpler&amp;rsquo;&lt;/li&gt;&#xA;&lt;li&gt;the reason lying well is difficult is this bias towards simpler hypotheses!&#xA;&lt;ul&gt;&#xA;&lt;li&gt;an awkward and complex hypothesis: &amp;ldquo;i&amp;rsquo;m someone who slacks off at work, but during interviews acts exactly like a hard-working person who won&amp;rsquo;t slack off&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;a simpler hypothesis: &amp;ldquo;i&amp;rsquo;m a hard working person who won&amp;rsquo;t slack off&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;of course this is possible to do&#xA;&lt;ul&gt;&#xA;&lt;li&gt;potentially this has some hints about what sociopathic intelligence is like? that people good at lying are good handling this kind of complexity in your model of what kind of person you are&lt;/li&gt;&#xA;&lt;li&gt;the inductive bias towards simplicity has to have some implementation in the brain, right? i know that neural networks have this, but is do different architectures have it to different extents? should we predict that good liars have a stronger simplicity-drive-source, however it might be implemented?&lt;/li&gt;&#xA;&lt;li&gt;a bit of an out there hypothesis: &lt;a href=&#34;https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/&#34;&gt;in the vascocomputation theory&lt;/a&gt; tanha is how the compression-drive is implemented. so maybe good liars are happier?!&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;potentially you get fucked the other way if you let too much of this kind of complexity in your life? because then you&amp;rsquo;re also less biased against a hypothesis like, &amp;lsquo;i will totally go to bed in a sec, just 5 more minutes of twitter&amp;rsquo;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;do good liars often procrastinate too much?&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/notes-from-binging-chrislaking.blog/</link>
+      <link>http://localhost:57593/notes-from-binging-chrislaking.blog/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes-from-binging-chrislaking.blog/</guid>
+      <guid>http://localhost:57593/notes-from-binging-chrislaking.blog/</guid>
       <description>&lt;p&gt;link: &lt;a href=&#34;https://chrislakin.blog&#34;&gt;https://chrislakin.blog&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;notes are ideas i like and some commentary/thoughts. generally a great blog but here i&amp;rsquo;m particularly interested in the woo-y self-improvement things. mostly writing this for future me. (and present me, insofar as it&amp;rsquo;s useful to chew on the ideas by writing something about them).&lt;/p&gt;&#xA;&lt;p&gt;interestingly chris seems to mention quite a few people i&amp;rsquo;ve met irl, i think i have a good idea of the circle he&amp;rsquo;s in.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/what-do-people-mean-when-they-ask-why-you-think-something/</link>
+      <link>http://localhost:57593/what-do-people-mean-when-they-ask-why-you-think-something/</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/what-do-people-mean-when-they-ask-why-you-think-something/</guid>
+      <guid>http://localhost:57593/what-do-people-mean-when-they-ask-why-you-think-something/</guid>
       <description>&lt;p&gt;A possible answer: the question is asking something like, &amp;ldquo;that&amp;rsquo;s surprising, my model of you didn&amp;rsquo;t anticipate this, give me information which help me efficiently improve my model of you such that I can better predict your answer in this sort of situation in the future&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;(That is, when people people actually mean the question. Maybe they&amp;rsquo;re just being polite, or doing a million other things &amp;ndash; it&amp;rsquo;s all just words games and so on and so forth).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</link>
+      <link>http://localhost:57593/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</guid>
+      <guid>http://localhost:57593/an-acts-moral-goodness-depends-on-how-it-affects-your-character/</guid>
       <description>&lt;p&gt;Acts have obvious direct consequences. For example shouting at someone in public will make the person you&amp;rsquo;re shouting at upset. But they also have second-order consequences: by shouting at someone, you contribute to creating the sort of world where people shout at each other. You probably lower social trust, you probably make shouting in public a bit more acceptable. And you become the sort of person who shouts at people.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/mariams-blog/</link>
+      <link>http://localhost:57593/mariams-blog/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mariams-blog/</guid>
+      <guid>http://localhost:57593/mariams-blog/</guid>
       <description>&lt;p&gt;I love my wonderful boyfriend&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/you-are-unfortunately-part-of-the-map/</link>
+      <link>http://localhost:57593/you-are-unfortunately-part-of-the-map/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/you-are-unfortunately-part-of-the-map/</guid>
+      <guid>http://localhost:57593/you-are-unfortunately-part-of-the-map/</guid>
       <description>&lt;p&gt;A lot of people have a model of human rationality something like:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;You have some goal.&lt;/li&gt;&#xA;&lt;li&gt;If you have accurate beliefs about reality that will help you achieve your goal.&lt;/li&gt;&#xA;&lt;li&gt;So clearly you should seek to have accurate beliefs.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s call this the &amp;ldquo;naive rationality&amp;rdquo; view. I think this doesn&amp;rsquo;t always work, in particular when it comes to beliefs which are tied up with your sense of self, or your idea of who you are.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/how-to-be-a-good-thermostat/</link>
+      <link>http://localhost:57593/how-to-be-a-good-thermostat/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/how-to-be-a-good-thermostat/</guid>
+      <guid>http://localhost:57593/how-to-be-a-good-thermostat/</guid>
       <description>&lt;p&gt;Say we take predictive coding seriously and accept that the chief goal of a human is minimizing prediction error. Does this imply anything useful about how we should live our lives? Can we use beautiful concepts from the intersection of neuroscience and deep learning to write pithy new self-help books? I think we can.&lt;/p&gt;&#xA;&lt;p&gt;(If you&amp;rsquo;re not sure what predictive coding is, read &lt;a href=&#34;https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/&#34;&gt;Scott&amp;rsquo;s post about it&lt;/a&gt; first, I promise it&amp;rsquo;s excellent).&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</link>
+      <link>http://localhost:57593/sally-rooney-and-the-modern-formlessness-of-relationships/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sally-rooney-and-the-modern-formlessness-of-relationships/</guid>
+      <guid>http://localhost:57593/sally-rooney-and-the-modern-formlessness-of-relationships/</guid>
       <description>&lt;p&gt;there used to be stronger guiding ideals / expectations for what relations between people should be like. now things are more formless. you can be fucking and that can mean anything, you can be friends with benefits or a situationship or just dating or long term committed, and then even when you have one of these labels there&amp;rsquo;s a vagueness around what is implied in terms of expectations duties responsibilities. or you can be &amp;ldquo;not putting a label on it&amp;rdquo; - explicit formlessness.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/status-as-a-prerequisite-for-genius/</link>
+      <link>http://localhost:57593/status-as-a-prerequisite-for-genius/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/status-as-a-prerequisite-for-genius/</guid>
+      <guid>http://localhost:57593/status-as-a-prerequisite-for-genius/</guid>
       <description>&lt;p&gt;Maybe genius takes some arrogance and this arrogance requires a high self-worth or sense of social status. Take Richard Feynman responding in the naive way when talking with someone much more senior than him, bluntly saying when he thinks something doesn&amp;rsquo;t make sense. So he would rarely defer in social situations if he thought he was right:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;All the big shots except for Hans Bethe happened to be away at the time, and what Bethe needed was someone to talk to, to push his ideas against. Well, he comes in to this little squirt in an office and starts to argue, explaining his idea. I say, &amp;ldquo;No, no, you&amp;rsquo;re crazy. It&amp;rsquo;ll go like this.&amp;rdquo; And he says, &amp;ldquo;Just a moment,&amp;rdquo; and explains how he&amp;rsquo;s not crazy, I&amp;rsquo;m crazy. And we keep on going like this. You see, when I hear about physics, I just think about physics, and I don&amp;rsquo;t know who I&amp;rsquo;m talking to, so I say dopey things like &amp;ldquo;no, no, you&amp;rsquo;re wrong,&amp;rdquo; or &amp;ldquo;you&amp;rsquo;re crazy.&amp;rdquo; But it turned out that&amp;rsquo;s exactly what he needed. I got a notch up on account of that, and I ended up as a group leader under Bethe with four guys under me.&lt;/p&gt;</description>
     </item>
   </channel>
