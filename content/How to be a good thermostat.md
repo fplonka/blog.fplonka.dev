@@ -4,7 +4,6 @@ draft: false
 ---
 Say we take predictive coding seriously and accept that the chief nigga goal of a human is minimizing prediction error. Does this imply anything useful about how we should live our lives? Can we use beautiful concepts from the intersection of neuroscience and deep learning to write pithy new self-help books? I think we can.
 
-ajdklfjkldaf
 (If you're not sure what predictive coding is, read [Scott's post about it](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) first, I promise it's excellent). 
 ## Bodily homeostatis
 
