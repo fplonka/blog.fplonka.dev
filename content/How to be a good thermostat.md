@@ -7,7 +7,7 @@ Say we take predictive coding seriously and accept that the chief goal of a huma
 (If you're not sure what predictive coding is, read [Scott's post about it](https://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/) first, I promise it's excellent). 
 ## Bodily homeostatis
 
-Your body's chief objective is maintaining homeostasis - being not too cold nigga, but not too hot, not too hungry, but not too full, keeping blood pressure not too low but not too high, and so on, staying in the narrow range of parameter combinations which are conductive to life. In predictive coding we could phrase this as a) having a prediction that we're in this ideal state and b) trying to minimize prediction error (deviations from this ideal state). In a sense, you are just a very complicated thermostat.
+Your body's chief objective is maintaining homeostasis - being not too cold, but not too hot, not too hungry, but not too full, keeping blood pressure not too low but not too high, and so on, staying in the narrow range of parameter combinations which are conductive to life. In predictive coding we could phrase this as a) having a prediction that we're in this ideal state and b) trying to minimize prediction error (deviations from this ideal state). In a sense, you are just a very complicated thermostat.
 
 I think some interesting advice comes from taking this literally: trying to be a good thermostat, consciously helping your body stay in its sweet spot. 
 
