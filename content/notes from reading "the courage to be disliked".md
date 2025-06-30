@@ -9,7 +9,10 @@ draft: true
 	- happiness stemming from contribution to the community.
 	- boundaries. I didn't "get" this when reading Chris Lakin's blog, I want to revisit the idea now. 
 	- the causality reversal on things like "you feel shy so that you don't have to ask her out". this rhymes nicely with Lakin's local optimality idea which I think is critical and under-appreciated.
+	- seeing people as comrades
 - some things rhyme with predictive coding, especially the teleology stuff. but at this point I see predictive coding everywhere so I wouldn't read into this too much.
 - some points I was unconvinced on:
 	- the living in the present stuff. I don't get it. if this is practical advice then for me it wasn't clear enough, and if it's spiritual advice trying to get you to be more enlightened then the logical-argument framing is misleading.
-	 - I don't have a clear idea how the boundaries are set for the separation of tasks. where do my tasks end? 
+- things I feel I don't understand very well or I'm unsure about:
+	 - how are the boundaries set for the separation of tasks? where do my tasks end? 
+	 - 
