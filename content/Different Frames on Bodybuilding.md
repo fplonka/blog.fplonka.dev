@@ -6,8 +6,6 @@ I think the popular evidence based bodybuilding space has more implicit frames a
 
 ## The common frame
 
-This frame says something like this: You do exercises and the exercised muscles get a stimulus to grow. This weakens the muscle but then you rest and given enough calories and protein and sleep and other factors allowing the muscle grows and gets stronger. Then you repeat. The stimulus is local to the exercised muscle, working out your biceps does not grow your triceps. You want to exercise often to get more opportunities for growth but not so often that the targeted muscle doesn't have time to recover and get stronger. In a workout you do many sets of an exercise to provide a bigger growth stimulus, although there are diminishing returns. People vary in how easily they grow and get stronger but these principles apply to everyone.
-
 - predictable
 - optimal thing is kind of systematic, routine based, maybe mesocycles
 
@@ -34,8 +32,7 @@ The common frame is basically correct but misleading. Your muscle grows when res
 
 ## vibe based reactivity, exercise the muscle when it's ready, personalized-ness
 
-
-
+TODO?
 ## predictive coding and homeostatis and esoteric mind over matter bullshit
 
 (For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent, as well https://en.wikipedia.org/wiki/Psycho-Cybernetics for a self-help book explaining this frame from the control theory perspective).
@@ -43,9 +40,20 @@ The common frame is basically correct but misleading. Your muscle grows when res
 The common frame is wrong about what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat. You have some set point of where your muscle mass should be, and if you manage to set the set point higher than where it currently is, all the incredibly powerful prediction-error-minimizing and homeostasis-maintaining machinery of your brain will work to get you more muscle, aiming to close the gap through changes in physiology and behavior.
 
 One way to shift your set point of how much muscle you should have is of course through lifting. But that's not the most powerful tool available: you should also be vividly imagining your goal, imagining yourself hitting a new PR in complete detail, shifting your self image towards being bigger and stronger. It's not enough to lift, you must manifest and hyperstition yourself into being jacked. And then in two years it will be done, you just need to get out of the way and let prediction-error-minimization/nature/Spirit/God's grace do its thing through you.
-## How true are these
+## So what's actually true
 
-So how true are any of these? 
+So are any of these actually true? 
+
+I expect these frames are some mix of directionally correct and basically wrong and kind of true but operating at a different level of description. And really they can be mixed and matched in different ways. For example if you accept the set-point frame there's still the question of what it's actually optimal to do at the gym. And maybe the systemic factors is kind of correct but actually the main impact is that heavy compounds improve general fitness and health more effectively and the real gains are from the rest-first frame. 
+
+For what it's worth I think the common frame has reasonably broad empirical support, and the systemic factors frame has good evidence against it, at least when focusing on the impact of hormone spikes. I asked Claude for a vibe check of the different perspectives' merits and empirical and theoretical support:
+
+> Each of these frames varies widely in empirical support. The common evidence-based frame—progressive overload, sufficient volume, proximity to failure—has the strongest research backing and is the right starting point. The systemic factors frame (hormone spikes from heavy compounds driving whole-body growth) has been fairly directly tested and largely debunked. The neural/skill frame is real but somewhat orthogonal—motor learning matters more for strength expression than hypertrophy per se. The rest/recovery and psychological feasibility frames are genuinely underrated: adherence and recovery are probably where most people leave the most gains on the table, and the evidence on sleep's effect on muscle protein synthesis is strong. The predictive coding/set-point frame is the most speculative—visualization has some evidence in motor performance contexts, but as a primary hypertrophy driver it's firmly "intriguing but unproven." If I had to rank by impact for someone with a decent program: sleep and recovery first, then psychological sustainability, then refining the common frame basics, with the rest as interesting but lower-leverage.
+
+Which is a very nice and sensible perspective, and likely a good counterbalance to the kind of schizo skeptic energy motivating this post.
+
+
+
 
 words words jakldjfkldafj
 
