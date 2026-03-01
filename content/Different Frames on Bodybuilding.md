@@ -32,17 +32,17 @@ The common frame is incomplete because it neglects the reality of you being a mo
 
 The common frame is basically correct but misleading. Your muscle grows when resting, not in the gym, and actually the largest impact you can have on your gains is through optimizing your rest and general health. This is because building muscle is a luxury, and you must provide your body favorable conditions to indulge in it. Instead of chasing small marginal gains through improving your exercise selection or programming, you should buy black out curtains and avoid late meals and go to bed on a regular schedule. If replacing a gym session with a light run will improve your sleep and general fitness, that's on net better for your gains. Do whatever helps you rest deeper, reduces stress, and improves general health markers like heart rate variability and resting heart rate, and the gains will follow, given a reasonable amount of lifting.
 
-## vibe based reactivity, exercise the muscle when it's ready
+## vibe based reactivity, exercise the muscle when it's ready, personalized-ness
 
 
 
 ## predictive coding and homeostatis and esoteric mind over matter bullshit
 
-(For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent).
+(For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent, as well https://en.wikipedia.org/wiki/Psycho-Cybernetics for a self-help book explaining this frame from the control theory perspective).
 
-The common frame is what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat.
+The common frame is wrong about what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat. You have some set point of where your muscle mass should be, and if you manage to set the set point higher than where it currently is, all the incredibly powerful prediction-error-minimizing and homeostasis-maintaining machinery of your brain will work to get you more muscle, aiming to close the gap through changes in physiology and behavior.
 
-
+One way to shift your set point of how much muscle you should have is of course through lifting. But that's not the most powerful tool available: you should also be vividly imagining your goal, imagining yourself hitting a new PR in complete detail, shifting your self image towards being bigger and stronger. It's not enough to lift, you must manifest and hyperstition yourself into being jacked. And then in two years it will be done, you just need to get out of the way and let prediction-error-minimization/nature/Spirit/God's grace do its thing through you.
 ## How true are these
 
 So how true are any of these? 
@@ -53,8 +53,6 @@ words words jakldjfkldafj
 
 So how true are any of these?
 
-
-k
 Exercises apply local muscle stimulus. Then when you rest 
 
  
