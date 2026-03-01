@@ -21,18 +21,37 @@ Take all of these lightly, more as possibilities than confident assertions.
 This one is probably the second most common one after the previouss frame. It says something like: Direct local muscle stimulus is important but not the whole story, because lifting also has some kind of whole-body systemic impact, through some your hormones or activating some signaling chemicals or whatever else. These then help all your muscle groups grow. The most effective way to get these systemic benefits is through heavy compound lifts like squats and deadlifts, with supplementary or "accessory" work added because some local stimulus is still an important growth signal.
 ## neural activation, skillmaxxing, calisthenics aligned
 
-The common frame is incomplete, because it's ignoring an important contributor to your ability to provide a strong growth stimulus to the muscle, namely your skill, or your ability to really use the muscle fully. Without some skill and neural adaptation you will be unable to lift the weight before the muscle is as cooked as could be, because you're not using it as efficiently as you could, because at the neural level you're literally not "trying" as hard as is possible, and because you're unwillingly activating other irrelevant muscles which are interfering.
+The common frame is incomplete because it's ignoring an important contributor to your ability to provide a strong growth stimulus to the muscle, namely your skill, or your ability to really use the muscle fully. Without some skill and neural adaptation you will be unable to lift the weight before the muscle is as cooked as could be, because you're not using it as efficiently as you could, because at the neural level you're literally not "trying" as hard as is possible, and because you're unwillingly activating other irrelevant muscles which are interfering.
 
 You should prioritize mind-muscle connection and do powerlifting-y work where you train your strength in lower rep ranges. You should explicitly think about how effectively you're executing the lift: on one hand it should be hard to provide stimulus for growth, on the other there should be an ease to it because you're doing it efficiently. Potentially you should include some calisthenics as that requires the meta skill of improving at the skill aspect of a lift, with carry-over benefits to your regular lifting.
 ## reward to effort/difficulty and psychological feasibility, the real bottleneck is willpower
 
+The common frame is incomplete because it neglects the reality of you being a mortal human with finite willpower. With a gun to your head maybe you could perform the theoretically optimal routine which hits all your muscle groups as often as possible as hard as possible. But in reality you can't, because that theoretically optimal routine would be really painful. The real bottleneck is psychological feasibility, so you should pick exercises which have a favorable ratio of reward to difficulty. This probably varies from person to person 
+
 ## rest-maxxing and general health
+
+The common frame is basically correct but misleading. Your muscle grows when resting, not in the gym, and actually the largest impact you can have on your gains is through optimizing your rest and general health. This is because building muscle is a luxury, and you must provide your body favorable conditions to indulge in it. Instead of chasing small marginal gains through improving your exercise selection or programming, you should buy black out curtains and avoid late meals and go to bed on a regular schedule. If replacing a gym session with a light run will improve your sleep and general fitness, that's on net better for your gains. Do whatever helps you rest deeper, reduces stress, and improves general health markers like heart rate variability and resting heart rate, and the gains will follow, given a reasonable amount of lifting.
 
 ## vibe based reactivity, exercise the muscle when it's ready
 
-## predictive coding and homeostatis
 
 
+## predictive coding and homeostatis and esoteric mind over matter bullshit
+
+(For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent).
+
+The common frame is what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat.
+
+
+## How true are these
+
+So how true are any of these? 
+
+words words jakldjfkldafj
+
+--- 
+
+So how true are any of these?
 
 
 k
