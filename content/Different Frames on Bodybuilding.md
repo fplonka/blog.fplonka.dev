@@ -1,6 +1,6 @@
 ---
 date: 2026-02-28
-draft: true
+draft: false
 ---
 I think the popular evidence based bodybuilding space has more implicit assumptions than is commonly acknowledged. I'd like to try to make some of these assumptions explicit as well as offer some alternative frames I find plausible or under-appreciated.
 ## The common frame
