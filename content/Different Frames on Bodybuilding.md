@@ -41,9 +41,10 @@ You should also be mindful of variance in *your own experience over time*. Pay a
 The common frame is wrong about what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat. You have some set point of where your muscle mass should be, and if you manage to set the set point higher than where it currently is, all the incredibly powerful prediction-error-minimizing and homeostasis-maintaining machinery of your brain will work to get you more muscle, aiming to close the gap through changes in physiology and behavior.
 
 One way to shift your set point of how much muscle you should have is of course through lifting. But that's not the most powerful tool available: you should also be vividly imagining your goal, imagining yourself hitting a new PR in complete detail, shifting your self image towards being bigger and stronger. It's not enough to lift, you must manifest and hyperstition yourself into being jacked. And then in two years it will be done, you just need to get out of the way and let prediction-error-minimization/nature/Spirit/God's grace do its thing through you.
-## So what's actually true
 
-So are any of these actually true? 
+---
+
+**So are any of these actually true?**
 
 I expect these frames are some mix of directionally correct and basically wrong and kind of true but operating at a different level of description. And really they can be mixed and matched in different ways. For example if you accept the set-point frame there's still the question of what it's actually optimal to do at the gym. And maybe the systemic factors is kind of correct but actually the main impact is that heavy compounds improve general fitness and health more effectively and the real gains are from the rest-first frame. 
 
