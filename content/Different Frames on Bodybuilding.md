@@ -8,10 +8,9 @@ I think the popular evidence based bodybuilding space has more implicit assumpti
 This frame says something like this: You do exercises and the exercised muscles get a stimulus to grow. This weakens the muscle but then you rest and given enough calories and protein and sleep and other factors allowing the muscle grows and gets stronger. Then you repeat. The stimulus is local to the exercised muscle, working out your biceps does not grow your triceps. You want to exercise often to get more opportunities for growth but not so often that the targeted muscle doesn't have time to recover and get stronger. In a workout you do many sets of an exercise to provide a bigger growth stimulus, although there are diminishing returns. People vary in how easily they grow and get stronger but these principles apply to everyone.
 
 Implicitly this frame also comes with some assumptions about what is not important, or at least less important: non-local systemic factors and hormonal responses to workouts, neural activation and the skill aspect of lifting, psychological difficulty, and whatever "unknown unknowns" I'm not thinking of here.
-
-I'm actually quite uncertain about to what extent this perspective is basically obviously correct and true vs not quite the full story. But I'd like to flesh out some of these alternative frames and ways of looking at what's important and what the most actionable knobs and dials are. 
-
 ## The alternatives
+
+I'm actually quite uncertain about to what extent the common perspective is basically obviously correct and true vs not quite the full story. But I'd like to flesh out some of these alternative frames and ways of looking at what's important and what the most actionable knobs and dials are. 
 
 Take all of these lightly, more as possibilities than confident assertions.
 ### Actually it's all about systemic factors
