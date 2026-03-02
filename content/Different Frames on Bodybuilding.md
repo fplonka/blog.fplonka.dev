@@ -2,9 +2,11 @@
 date: 2026-02-28
 draft: true
 ---
-I think the popular evidence based bodybuilding space has more implicit frames and assumptions than is commonly acknowledged. I'd like to try to make some of these assumptions explicit as well as offer some alternative frames I find plausible or under-appreciated.
+I think the popular evidence based bodybuilding space has more implicit rssumptions than is commonly acknowledged. I'd like to try to make some of these assumptions explicit as well as offer some alternative frames I find plausible or under-appreciated.
 
 ## The common frame
+
+This frame says something like this: You do exercises and the exercised muscles get a stimulus to grow. This weakens the muscle but then you rest and given enough calories and protein and sleep and other factors allowing the muscle grows and gets stronger. Then you repeat. The stimulus is local to the exercised muscle, working out your biceps does not grow your triceps. You want to exercise often to get more opportunities for growth but not so often that the targeted muscle doesn't have time to recover and get stronger. In a workout you do many sets of an exercise to provide a bigger growth stimulus, although there are diminishing returns. People vary in how easily they grow and get stronger but these principles apply to everyone.
 
 - predictable
 - optimal thing is kind of systematic, routine based, maybe mesocycles
