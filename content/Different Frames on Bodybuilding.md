@@ -2,42 +2,41 @@
 date: 2026-02-28
 draft: true
 ---
-I think the popular evidence based bodybuilding space has more implicit rssumptions than is commonly acknowledged. I'd like to try to make some of these assumptions explicit as well as offer some alternative frames I find plausible or under-appreciated.
-
+I think the popular evidence based bodybuilding space has more implicit assumptions than is commonly acknowledged. I'd like to try to make some of these assumptions explicit as well as offer some alternative frames I find plausible or under-appreciated.
 ## The common frame
 
 This frame says something like this: You do exercises and the exercised muscles get a stimulus to grow. This weakens the muscle but then you rest and given enough calories and protein and sleep and other factors allowing the muscle grows and gets stronger. Then you repeat. The stimulus is local to the exercised muscle, working out your biceps does not grow your triceps. You want to exercise often to get more opportunities for growth but not so often that the targeted muscle doesn't have time to recover and get stronger. In a workout you do many sets of an exercise to provide a bigger growth stimulus, although there are diminishing returns. People vary in how easily they grow and get stronger but these principles apply to everyone.
 
-- predictable
-- optimal thing is kind of systematic, routine based, maybe mesocycles
-
 Implicitly this frame also comes with some assumptions about what is not important, or at least less important: non-local systemic factors and hormonal responses to workouts, neural activation and the skill aspect of lifting, psychological difficulty, and whatever "unknown unknowns" I'm not thinking of here.
 
-I'm actually quite uncertain about to what extent this perspective is basically obviously correct and true vs not quite the full story. But I'd like to flesh out some of these alternative frames and ways of looking at what's important and what the most actionable nobs and dials are. 
+I'm actually quite uncertain about to what extent this perspective is basically obviously correct and true vs not quite the full story. But I'd like to flesh out some of these alternative frames and ways of looking at what's important and what the most actionable knobs and dials are. 
 
 Take all of these lightly, more as possibilities than confident assertions.
-## Systemic factors
+## Actually it's all about systemic factors
 
-This one is probably the second most common one after the previouss frame. It says something like: Direct local muscle stimulus is important but not the whole story, because lifting also has some kind of whole-body systemic impact, through some your hormones or activating some signaling chemicals or whatever else. These then help all your muscle groups grow. The most effective way to get these systemic benefits is through heavy compound lifts like squats and deadlifts, with supplementary or "accessory" work added because some local stimulus is still an important growth signal.
-## neural activation, skillmaxxing, calisthenics aligned
+This one is probably the second most common one after the previous frame. It says something like: Direct local muscle stimulus is important but not the whole story, because lifting also has some kind of whole-body systemic impact, through your hormones or activating some signaling chemicals or whatever else. This then helps all your muscle groups grow. The most effective way to get these systemic benefits is through heavy compound lifts like squats and deadlifts, with supplementary or "accessory" work added because some local stimulus is still an important growth signal.
+
+The common frame would predict that we regularly see people with gross muscle imbalances, huge triceps but grossly neglected biceps, etc. Do we? Have you ever seen a powerlifter with tiny lats because they only squat bench and deadlift?
+## No, the most important thing is skill
 
 The common frame is incomplete because it's ignoring an important contributor to your ability to provide a strong growth stimulus to the muscle, namely your skill, or your ability to really use the muscle fully. Without some skill and neural adaptation you will be unable to lift the weight before the muscle is as cooked as could be, because you're not using it as efficiently as you could, because at the neural level you're literally not "trying" as hard as is possible, and because you're unwillingly activating other irrelevant muscles which are interfering.
 
 You should prioritize mind-muscle connection and do powerlifting-y work where you train your strength in lower rep ranges. You should explicitly think about how effectively you're executing the lift: on one hand it should be hard to provide stimulus for growth, on the other there should be an ease to it because you're doing it efficiently. Potentially you should include some calisthenics as that requires the meta skill of improving at the skill aspect of a lift, with carry-over benefits to your regular lifting.
-## reward to effort/difficulty and psychological feasibility, the real bottleneck is willpower
+## Or it's all about psychological feasibility
 
-The common frame is incomplete because it neglects the reality of you being a mortal human with finite willpower. With a gun to your head maybe you could perform the theoretically optimal routine which hits all your muscle groups as often as possible as hard as possible. But in reality you can't, because that theoretically optimal routine would be really painful. The real bottleneck is psychological feasibility, so you should pick exercises which have a favorable ratio of reward to difficulty. This probably varies from person to person 
-
-## rest-maxxing and general health
+The common frame is incomplete because it neglects the reality of you being a mortal human with finite willpower. With a gun to your head maybe you could perform the theoretically optimal routine which hits all your muscle groups as often as possible as hard as possible. But in reality you can't, because that theoretically optimal routine would be really painful. The real bottleneck is psychological feasibility, so you should pick exercises which have a favorable ratio of reward to difficulty: get a sense for what you find fun and intuitively enjoy and go hard at that.
+## Or no, the most important thing is rest
 
 The common frame is basically correct but misleading. Your muscle grows when resting, not in the gym, and actually the largest impact you can have on your gains is through optimizing your rest and general health. This is because building muscle is a luxury, and you must provide your body favorable conditions to indulge in it. Instead of chasing small marginal gains through improving your exercise selection or programming, you should buy black out curtains and avoid late meals and go to bed on a regular schedule. If replacing a gym session with a light run will improve your sleep and general fitness, that's on net better for your gains. Do whatever helps you rest deeper, reduces stress, and improves general health markers like heart rate variability and resting heart rate, and the gains will follow, given a reasonable amount of lifting.
 
-## vibe based reactivity, exercise the muscle when it's ready, personalized-ness
+## Or actually you should just respond to your body's unique demand
 
-TODO?
-## predictive coding and homeostatis and esoteric mind over matter bullshit
+The common frame drastically underemphasizes the variance between people. If you look at the actual data in exercise science, you will see that for basically any intervention there's an enormous range of observed responses. We should acknowledge that the [generalizations that we can make about large groups of people are weak](https://blog.fplonka.dev/on-priors-about-group-differences/) and have the confidence to throw out conventional wisdom about what is most effective "on average" straight into the bin when faced with evidence that something else works better for us. Ignore the noise about eccentric vs concentric loading and rep ranges and optimal exercises, instead carefully assess what works for you, what feels good and gives you a crazy pump and leaves you sore. 
 
-(For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent, as well https://en.wikipedia.org/wiki/Psycho-Cybernetics for a self-help book explaining this frame from the control theory perspective).
+You should also be mindful of variance in *your own experience over time*. Pay attention to when your muscle is actually recovered, as this can happen faster or slower depending on your diet and stress and sleep. Don't assume that variance in your strength from session to session is insignificant. And then all of this could vary long-term as you get older and bigger and stronger.  
+## Just kidding, you need to believe in mind over matter
+
+(For this to make sense consider reading http://slatestarcodex.com/2017/09/05/book-review-surfing-uncertainty/ and https://slatestarcodex.com/2017/09/06/predictive-processing-and-perceptual-control/, they are both excellent, as well as https://en.wikipedia.org/wiki/Psycho-Cybernetics for a self-help book explaining this frame from the control theory perspective).
 
 The common frame is wrong about what type of thing a human being is. It models you as an agent making decisions in the world, but really you are a prediction error minimization machine, or a kind of complicated thermostat. You have some set point of where your muscle mass should be, and if you manage to set the set point higher than where it currently is, all the incredibly powerful prediction-error-minimizing and homeostasis-maintaining machinery of your brain will work to get you more muscle, aiming to close the gap through changes in physiology and behavior.
 
@@ -50,36 +49,6 @@ I expect these frames are some mix of directionally correct and basically wrong 
 
 For what it's worth I think the common frame has reasonably broad empirical support, and the systemic factors frame has good evidence against it, at least when focusing on the impact of hormone spikes. I asked Claude for a vibe check of the different perspectives' merits and empirical and theoretical support:
 
-> Each of these frames varies widely in empirical support. The common evidence-based frame—progressive overload, sufficient volume, proximity to failure—has the strongest research backing and is the right starting point. The systemic factors frame (hormone spikes from heavy compounds driving whole-body growth) has been fairly directly tested and largely debunked. The neural/skill frame is real but somewhat orthogonal—motor learning matters more for strength expression than hypertrophy per se. The rest/recovery and psychological feasibility frames are genuinely underrated: adherence and recovery are probably where most people leave the most gains on the table, and the evidence on sleep's effect on muscle protein synthesis is strong. The predictive coding/set-point frame is the most speculative—visualization has some evidence in motor performance contexts, but as a primary hypertrophy driver it's firmly "intriguing but unproven." If I had to rank by impact for someone with a decent program: sleep and recovery first, then psychological sustainability, then refining the common frame basics, with the rest as interesting but lower-leverage.
+>Each of these frames has something going for it, though the evidence isn't equally distributed. The common frame is the best supported by controlled studies — local mechanical tension really does drive hypertrophy, and the dose-response relationship between volume and growth is one of the more robust findings in exercise science. The systemic hormonal hypothesis has taken real hits; the research on transient testosterone and growth hormone spikes from squats and deadlifts suggests they don't meaningfully predict muscle growth in other body parts. That said, the "skill" and "psychological feasibility" frames aren't really competing with the common frame so much as supplementing it — they're about _how well you can actually execute_ on the local stimulus model given that you're a real person with a nervous system and limited motivation. The rest frame is probably underrated: sleep quality and stress genuinely modulate recovery and anabolic signaling, and most people would gain more from an extra hour of sleep than from a fifth set of lateral raises. The individual variance frame is just true as a statistical observation, though "listen to your body" is harder to operationalize than it sounds. And the set-point/predictive processing frame is the most speculative — intriguing as a theoretical lens, but the evidence that visualization meaningfully shifts muscle growth independent of actual training behavior is thin. If I had to rank them by actionability, I'd say: train consistently with progressive overload (common frame), prioritize sleep and recovery (rest frame), pick exercises you'll actually do hard and often (feasibility frame), and get better at the lifts you do (skill frame) — roughly in that order. 
 
 Which is a very nice and sensible perspective, and likely a good counterbalance to the kind of schizo skeptic energy motivating this post.
-
-
-
-
-words words jakldjfkldafj
-
---- 
-
-So how true are any of these?
-
-Exercises apply local muscle stimulus. Then when you rest 
-
- 
-There's some 
-
-- muscle stimulus, rest, local muscle damage,"tension is king", "individual muscle" decomposition
-
-## Alternative frames
-
-### This one
-### This other one
-### This other one
-
-- systemic factors, hormones, powerlifting
-- neural activation, skillmaxxing, calisthenics aligned
-- reward to effort/difficulty and psychological feasibility, the real bottleneck is willpower
-- rest-maxxing
-- vibe based reactivity, exercise the muscle when it's ready
-
-
