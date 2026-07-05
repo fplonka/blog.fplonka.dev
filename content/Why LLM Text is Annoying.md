@@ -1,6 +1,6 @@
 ---
 date: 2026-05-24
-draft: true
+draft: false
 ---
 Like many others, I get annoyed whenever I read LLM generated text. The moment I notice the em dashes and short paragraphs and "not just X, it's Y" I am convinced that I know everything there is to know about the text and stop reading. And I think this actually makes perfect sense.
 

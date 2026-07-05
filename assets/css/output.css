@@ -112,6 +112,10 @@ body {
   --tw-contain-style:  ;
 }
 
+.collapse {
+  visibility: collapse;
+}
+
 .relative {
   position: relative;
 }
@@ -153,6 +157,10 @@ body {
 
 .block {
   display: block;
+}
+
+.hidden {
+  display: none;
 }
 
 .h-auto {
